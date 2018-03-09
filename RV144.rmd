@@ -76,7 +76,11 @@ $H_a:$ There is a relation between aids and having the aides vaccine.
 chisqtestGC(results, graph = TRUE)
 ```
   
-  The p-value of .04 means the probability of getting a result like that just obtained if the null hypothesis is true is approximately 4 percent.  This is normally considered significant.
+  The p-value of .04 means the probability of getting a result like that just obtained if the null hypothesis is true is approximately 4 percent.  This is normally considered significant.  
+
+we now test the independence of aids vacine and placebo groups  
+$H_0:$ the placebo and aids vaccines treatment is independent of contracting the disease aids  
+$H_a:$ having the vaccine is related to contracting the disease  
 
 ## Conclusions
 
